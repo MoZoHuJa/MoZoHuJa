@@ -1,17 +1,22 @@
-<h1 align="center">
-  <img src="https://raw.githubusercontent.com/MoZoHuJa/OS/main/docs/scarlixos-banner.png" alt="ScarLiXoS v19 — Sovereign AI Cloud" width="100%" />
-</h1>
-
 <p align="center">
-  <strong>ScarLiXoS v19</strong> — Suverénny domáci OS pre AI cloud, coding, gaming a rodinnú zábavu.<br/>
-  Architektúra Secure Host-Bridge · Token autentifikácia · 4-tier AI failover · EndeavourOS (Arch) base
+  <img src="https://raw.githubusercontent.com/MoZoHuJa/MoZoHuJa/main/assets/scargen-cult-github-banner.svg" alt="ScaRgeN CuLT — Adaptive Intelligence Fabric · Obsidian Lattice" width="100%" />
+</p>
+
+<h1 align="center">ScaRgeN CuLT</h1>
+<p align="center">
+  <strong>Adaptive Intelligence Fabric · Obsidian Lattice</strong><br/>
+  Budujem ekosystém lokálnej, suverénnej inteligencie: <strong>ScarLiXoS OS</strong> ako systémový základ, <strong>ScarliHQ</strong> ako riadiacu vrstvu a <strong>ScarliNote</strong> ako osobnú inteligenciu.
 </p>
 
 <p align="center">
-  <a href="https://github.com/MoZoHuJa/OS/releases/tag/v19.0.2"><img alt="Version" src="https://img.shields.io/badge/version-v19.0.2-10b981?style=flat-square" /></a>
-  <a href="https://github.com/MoZoHuJa/OS"><img alt="Repo" src="https://img.shields.io/badge/repo-MoZoHuJa%2FOS-06b6d4?style=flat-square" /></a>
-  <a href="https://github.com/MoZoHuJa/OS/blob/main/LICENSE"><img alt="License" src="https://img.shields.io/badge/license-MIT-14b8a6?style=flat-square" /></a>
-  <a href="https://github.com/MoZoHuJa/OS/actions"><img alt="CI" src="https://img.shields.io/badge/CI-GitHub%20Actions-8b5cf6?style=flat-square" /></a>
+  <a href="https://github.com/MoZoHuJa/OS"><img alt="ScarLiXoS OS" src="https://img.shields.io/badge/ScarLiXoS-OS-B87333?style=flat-square" /></a>
+  <a href="https://github.com/MoZoHuJa/OS/releases/tag/v19.2.9"><img alt="Stable version" src="https://img.shields.io/badge/stable-v19.2.9-D4A574?style=flat-square" /></a>
+  <a href="https://github.com/MoZoHuJa/OS/actions"><img alt="CI" src="https://img.shields.io/badge/CI-GitHub%20Actions-A8C5D4?style=flat-square" /></a>
+  <a href="https://github.com/MoZoHuJa/OS/blob/main/LICENSE"><img alt="License" src="https://img.shields.io/badge/license-MIT-E8E4DF?style=flat-square" /></a>
+</p>
+
+<p align="center">
+  <sub>SCARGEN CULT · SCARLIXOS · SCARLIHQ · SCARLINOTE · COMPUTE / AGENT / MEMORY FABRIC</sub>
 </p>
 
 ---
@@ -21,7 +26,7 @@
 ```bash
 git clone https://github.com/MoZoHuJa/OS.git ~/scarlix-os
 cd ~/scarlix-os
-git checkout v19.0.2   # ALWAYS checkout specific tag
+git checkout v19.2.9   # stable release
 bash install.sh
 ```
 
